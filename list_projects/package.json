@@ -11,9 +11,9 @@
     "test": "mocha test/*.test.js --timeout=60000 --exit"
   },
   "dependencies": {
-    "@google-cloud/compute": "^1.1.1",
+    "@google-cloud/compute": "^2.0.1",
     "@google-cloud/monitoring": "^1.2.2",
-    "@google-cloud/pubsub": "^0.30.1",
+    "@google-cloud/pubsub": "^2.0.0",
     "@google-cloud/resource": "^1.1.2"
   },
   "devDependencies": {
